@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "03reZ9by8fY=",
+  "success": true,
+  "projectFilePath": "D:\\project\\atvabmhttt\\PDF_digital_signature\\PDF_digital_signature.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HIEU\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\HIEU\\.nuget\\packages\\syncfusion.compression.net.core\\29.2.4\\syncfusion.compression.net.core.29.2.4.nupkg.sha512",
+    "C:\\Users\\HIEU\\.nuget\\packages\\syncfusion.licensing\\29.2.4\\syncfusion.licensing.29.2.4.nupkg.sha512",
+    "C:\\Users\\HIEU\\.nuget\\packages\\syncfusion.pdf.net.core\\29.2.4\\syncfusion.pdf.net.core.29.2.4.nupkg.sha512",
+    "C:\\Users\\HIEU\\.nuget\\packages\\system.text.encoding.codepages\\4.4.0\\system.text.encoding.codepages.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
