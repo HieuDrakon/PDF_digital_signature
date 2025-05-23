@@ -38,8 +38,6 @@ class Program
         Console.WriteLine($"Ngày bắt đầu hiệu lực: {x509.NotBefore}");
         Console.WriteLine($"Ngày hết hạn: {x509.NotAfter}");
         Console.WriteLine($"Số sê-ri: {x509.SerialNumber}");
-        Console.WriteLine($"Thuật toán mã hóa khóa công khai: {x509.PublicKey.Oid.FriendlyName}");
-        Console.WriteLine($"Độ dài khóa: {x509.PublicKey.Key.KeySize} bits");
         Console.WriteLine($"Địa chỉ email: {x509.GetNameInfo(X509NameType.EmailName, false)}");
 
         // Khởi tạo chứng chỉ cho Syncfusion
